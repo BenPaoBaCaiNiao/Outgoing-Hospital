@@ -1,0 +1,231 @@
+F:\出入院系统\出入院系统\bin\Debug\出入院系统.exe
+F:\出入院系统\出入院系统\bin\Debug\出入院系统.pdb
+F:\出入院系统\出入院系统\obj\Debug\ResolveAssemblyReference.cache
+F:\出入院系统\出入院系统\obj\Debug\出入院系统.Properties.Resources.resources
+F:\出入院系统\出入院系统\obj\Debug\出入院系统.入院登记.resources
+F:\出入院系统\出入院系统\obj\Debug\出入院系统.登录.resources
+F:\出入院系统\出入院系统\obj\Debug\出入院系统.登录菜单目录.resources
+F:\出入院系统\出入院系统\obj\Debug\出入院系统.csproj.GenerateResource.Cache
+F:\出入院系统\出入院系统\obj\Debug\出入院系统.exe
+F:\出入院系统\出入院系统\obj\Debug\出入院系统.pdb
+C:\Users\Administrator\Desktop\出入院系统\出入院系统\obj\Debug\出入院系统.exe
+C:\Users\Administrator\Desktop\出入院系统\出入院系统\obj\Debug\出入院系统.pdb
+C:\Users\Administrator\Desktop\出入院系统\出入院系统\bin\Debug\出入院系统.exe
+C:\Users\Administrator\Desktop\出入院系统\出入院系统\bin\Debug\出入院系统.pdb
+C:\Users\Administrator\Desktop\出入院系统\出入院系统\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\出入院系统\出入院系统\obj\Debug\出入院系统.Properties.Resources.resources
+C:\Users\Administrator\Desktop\出入院系统\出入院系统\obj\Debug\出入院系统.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\SQL\SQL 界面\出入院系统\出入院系统\obj\Debug\出入院系统.exe
+C:\Users\Administrator\Desktop\SQL\SQL 界面\出入院系统\出入院系统\obj\Debug\出入院系统.pdb
+C:\Users\Administrator\Desktop\SQL\SQL 界面\出入院系统\出入院系统\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SQL\SQL 界面\出入院系统\出入院系统\obj\Debug\出入院系统.Properties.Resources.resources
+C:\Users\Administrator\Desktop\SQL\SQL 界面\出入院系统\出入院系统\obj\Debug\出入院系统.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\SQL\SQL 界面\出入院系统\出入院系统\obj\Debug\出入院系统.frmzhuce.resources
+C:\Users\Administrator\Desktop\SQL\SQL 界面\出入院系统\出入院系统\obj\Debug\出入院系统.frmdenglu.resources
+C:\Users\Administrator\Desktop\SQL\SQL 界面\出入院系统\出入院系统\bin\Debug\出入院系统.exe
+C:\Users\Administrator\Desktop\SQL\SQL 界面\出入院系统\出入院系统\bin\Debug\出入院系统.pdb
+C:\Users\Administrator\Desktop\出入院系统\出入院系统\obj\Debug\出入院系统.Frmzhuce.resources
+C:\Users\Administrator\Desktop\出入院系统\出入院系统\obj\Debug\出入院系统.Frmdenglu.resources
+C:\Users\Administrator\Desktop\SQL\SQL 界面\出入院系统\出入院系统\obj\Debug\出入院系统.Frmruyuandengji.resources
+C:\Users\Administrator\Desktop\SQL\SQL 界面\出入院系统\出入院系统\obj\Debug\WindowsFormsApplication2.发票信息查询.resources
+C:\Users\Administrator\Desktop\SQL\SQL 界面\出入院系统\出入院系统\obj\Debug\费用补账处理.费用补账处理.resources
+C:\Users\Administrator\Desktop\SQL\SQL 界面\出入院系统\出入院系统\obj\Debug\WindowsFormsApplication3.LtB_shoufeibiaozun.resources
+C:\Users\Administrator\Desktop\SQL\SQL 界面\出入院系统\出入院系统\obj\Debug\出入院系统.Frmjiezhang.resources
+C:\Users\Administrator\Desktop\SQL\SQL 界面\出入院系统\出入院系统\obj\Debug\出入院系统.Frmruyuanzhenduan.resources
+C:\Users\Administrator\Desktop\SQL\SQL 界面\出入院系统\出入院系统\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\朱晓敏\Desktop\出入院系统\出入院系统\obj\Debug\出入院系统.exe
+C:\Users\朱晓敏\Desktop\出入院系统\出入院系统\obj\Debug\出入院系统.pdb
+C:\Users\朱晓敏\Desktop\出入院系统\出入院系统\bin\Debug\出入院系统.exe
+C:\Users\朱晓敏\Desktop\出入院系统\出入院系统\bin\Debug\出入院系统.pdb
+C:\Users\朱晓敏\Desktop\出入院系统\出入院系统\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\朱晓敏\Desktop\出入院系统\出入院系统\obj\Debug\出入院系统.Frmbedcheck.resources
+C:\Users\朱晓敏\Desktop\出入院系统\出入院系统\obj\Debug\出入院系统.Frmruyuandengji.resources
+C:\Users\朱晓敏\Desktop\出入院系统\出入院系统\obj\Debug\WindowsFormsApplication2.发票信息查询.resources
+C:\Users\朱晓敏\Desktop\出入院系统\出入院系统\obj\Debug\费用补账处理.费用补账处理.resources
+C:\Users\朱晓敏\Desktop\出入院系统\出入院系统\obj\Debug\WindowsFormsApplication3.LtB_shoufeibiaozun.resources
+C:\Users\朱晓敏\Desktop\出入院系统\出入院系统\obj\Debug\出入院系统.Frmjiezhang.resources
+C:\Users\朱晓敏\Desktop\出入院系统\出入院系统\obj\Debug\出入院系统.Frmruyuanzhenduan.resources
+C:\Users\朱晓敏\Desktop\出入院系统\出入院系统\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\朱晓敏\Desktop\出入院系统\出入院系统\obj\Debug\出入院系统.Properties.Resources.resources
+C:\Users\朱晓敏\Desktop\出入院系统\出入院系统\obj\Debug\出入院系统.Frmzhuce.resources
+C:\Users\朱晓敏\Desktop\出入院系统\出入院系统\obj\Debug\出入院系统.Frmdenglu.resources
+C:\Users\朱晓敏\Desktop\出入院系统\出入院系统\obj\Debug\出入院系统.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\出入院系统\出入院系统\obj\Debug\出入院系统.Frmbedcheck.resources
+C:\Users\Administrator\Desktop\出入院系统\出入院系统\obj\Debug\出入院系统.Frmruyuandengji.resources
+C:\Users\Administrator\Desktop\出入院系统\出入院系统\obj\Debug\出入院系统.Frmzhenduanbianma.resources
+C:\Users\fj1\Desktop\10\出入院系统\出入院系统\obj\Debug\出入院系统.exe
+C:\Users\fj1\Desktop\10\出入院系统\出入院系统\obj\Debug\出入院系统.pdb
+C:\Users\fj1\Desktop\10\出入院系统\出入院系统\bin\Debug\出入院系统.exe
+C:\Users\fj1\Desktop\10\出入院系统\出入院系统\bin\Debug\出入院系统.pdb
+C:\Users\fj1\Desktop\10\出入院系统\出入院系统\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\fj1\Desktop\10\出入院系统\出入院系统\obj\Debug\出入院系统.Frmbedcheck.resources
+C:\Users\fj1\Desktop\10\出入院系统\出入院系统\obj\Debug\出入院系统.Frmruyuandengji.resources
+C:\Users\fj1\Desktop\10\出入院系统\出入院系统\obj\Debug\WindowsFormsApplication2.发票信息查询.resources
+C:\Users\fj1\Desktop\10\出入院系统\出入院系统\obj\Debug\费用补账处理.费用补账处理.resources
+C:\Users\fj1\Desktop\10\出入院系统\出入院系统\obj\Debug\WindowsFormsApplication3.LtB_shoufeibiaozun.resources
+C:\Users\fj1\Desktop\10\出入院系统\出入院系统\obj\Debug\出入院系统.Frmjiezhang.resources
+C:\Users\fj1\Desktop\10\出入院系统\出入院系统\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\fj1\Desktop\10\出入院系统\出入院系统\obj\Debug\出入院系统.Frmzhenduanbianma.resources
+C:\Users\fj1\Desktop\10\出入院系统\出入院系统\obj\Debug\出入院系统.Properties.Resources.resources
+C:\Users\fj1\Desktop\10\出入院系统\出入院系统\obj\Debug\出入院系统.Frmzhuce.resources
+C:\Users\fj1\Desktop\10\出入院系统\出入院系统\obj\Debug\出入院系统.Frmdenglu.resources
+C:\Users\fj1\Desktop\10\出入院系统\出入院系统\obj\Debug\出入院系统.csproj.GenerateResource.Cache
+C:\Users\fj1\Desktop\10\出入院系统\出入院系统\obj\Debug\出入院系统.Frmbedcard.resources
+C:\Users\Administrator\Desktop\10\出入院系统\出入院系统\obj\Debug\出入院系统.exe
+C:\Users\Administrator\Desktop\10\出入院系统\出入院系统\obj\Debug\出入院系统.pdb
+C:\Users\Administrator\Desktop\出入院系统\出入院系统\obj\Debug\出入院系统.Frmbedcard.resources
+C:\Users\fj4\Desktop\出入院系统总\出入院系统\出入院系统\obj\Debug\出入院系统.exe
+C:\Users\fj4\Desktop\出入院系统总\出入院系统\出入院系统\obj\Debug\出入院系统.pdb
+C:\Users\fj4\Desktop\出入院系统总\出入院系统\出入院系统\bin\Debug\出入院系统.exe
+C:\Users\fj4\Desktop\出入院系统总\出入院系统\出入院系统\bin\Debug\出入院系统.pdb
+C:\Users\fj4\Desktop\出入院系统总\出入院系统\出入院系统\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\fj4\Desktop\出入院系统总\出入院系统\出入院系统\obj\Debug\出入院系统.Frmbedcard.resources
+C:\Users\fj4\Desktop\出入院系统总\出入院系统\出入院系统\obj\Debug\出入院系统.Frmbedcheck.resources
+C:\Users\fj4\Desktop\出入院系统总\出入院系统\出入院系统\obj\Debug\出入院系统.Frmruyuandengji.resources
+C:\Users\fj4\Desktop\出入院系统总\出入院系统\出入院系统\obj\Debug\WindowsFormsApplication2.发票信息查询.resources
+C:\Users\fj4\Desktop\出入院系统总\出入院系统\出入院系统\obj\Debug\费用补账处理.费用补账处理.resources
+C:\Users\fj4\Desktop\出入院系统总\出入院系统\出入院系统\obj\Debug\WindowsFormsApplication3.LtB_shoufeibiaozun.resources
+C:\Users\fj4\Desktop\出入院系统总\出入院系统\出入院系统\obj\Debug\出入院系统.Frmjiezhang.resources
+C:\Users\fj4\Desktop\出入院系统总\出入院系统\出入院系统\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\fj4\Desktop\出入院系统总\出入院系统\出入院系统\obj\Debug\出入院系统.Frmzhenduanbianma.resources
+C:\Users\fj4\Desktop\出入院系统总\出入院系统\出入院系统\obj\Debug\出入院系统.Properties.Resources.resources
+C:\Users\fj4\Desktop\出入院系统总\出入院系统\出入院系统\obj\Debug\出入院系统.Frmzhuce.resources
+C:\Users\fj4\Desktop\出入院系统总\出入院系统\出入院系统\obj\Debug\出入院系统.Frmdenglu.resources
+C:\Users\fj4\Desktop\出入院系统总\出入院系统\出入院系统\obj\Debug\出入院系统.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\出入院系统\出入院系统\obj\Debug\出入院系统.Frmpaxingzhi.resources
+C:\Users\Administrator\Desktop\出入院系统\出入院系统\obj\Debug\出入院系统.Frmdetail.resources
+C:\Users\fj3\Desktop\出入院系统\出入院系统\obj\Debug\出入院系统.exe
+C:\Users\fj3\Desktop\出入院系统\出入院系统\obj\Debug\出入院系统.pdb
+C:\Users\fj3\Desktop\出入院系统\出入院系统\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\fj3\Desktop\出入院系统\出入院系统\obj\Debug\出入院系统.Frmbedcard.resources
+C:\Users\fj3\Desktop\出入院系统\出入院系统\obj\Debug\出入院系统.Frmbedcheck.resources
+C:\Users\fj3\Desktop\出入院系统\出入院系统\obj\Debug\出入院系统.Frmdetail.resources
+C:\Users\fj3\Desktop\出入院系统\出入院系统\obj\Debug\出入院系统.Frmfapiao.resources
+C:\Users\fj3\Desktop\出入院系统\出入院系统\obj\Debug\出入院系统.Frmjiezhangfapiao.resources
+C:\Users\fj3\Desktop\出入院系统\出入院系统\obj\Debug\出入院系统.Frmjiezhanghedui.resources
+C:\Users\fj3\Desktop\出入院系统\出入院系统\obj\Debug\出入院系统.Frmpaxingzhi.resources
+C:\Users\fj3\Desktop\出入院系统\出入院系统\obj\Debug\出入院系统.Frmruyuandengji.resources
+C:\Users\fj3\Desktop\出入院系统\出入院系统\obj\Debug\出入院系统.Frmfeiyongbuzhang.resources
+C:\Users\fj3\Desktop\出入院系统\出入院系统\obj\Debug\WindowsFormsApplication3.LtB_shoufeibiaozun.resources
+C:\Users\fj3\Desktop\出入院系统\出入院系统\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\fj3\Desktop\出入院系统\出入院系统\obj\Debug\出入院系统.Frmzhenduanbianma.resources
+C:\Users\fj3\Desktop\出入院系统\出入院系统\obj\Debug\出入院系统.Properties.Resources.resources
+C:\Users\fj3\Desktop\出入院系统\出入院系统\obj\Debug\出入院系统.Frmzhuce.resources
+C:\Users\fj3\Desktop\出入院系统\出入院系统\obj\Debug\出入院系统.Frmdenglu.resources
+C:\Users\fj3\Desktop\出入院系统\出入院系统\obj\Debug\出入院系统.csproj.GenerateResource.Cache
+C:\Users\fj3\Desktop\出入院系统\出入院系统\bin\Debug\出入院系统.exe
+C:\Users\fj3\Desktop\出入院系统\出入院系统\bin\Debug\出入院系统.pdb
+C:\Users\fj3\Desktop\出入院系统总\出入院系统\出入院系统\obj\Debug\出入院系统.exe
+C:\Users\fj3\Desktop\出入院系统总\出入院系统\出入院系统\obj\Debug\出入院系统.pdb
+C:\Users\fj3\Desktop\出入院系统总\出入院系统\出入院系统\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\fj3\Desktop\出入院系统总\出入院系统\出入院系统\obj\Debug\出入院系统.Frmbedcard.resources
+C:\Users\fj3\Desktop\出入院系统总\出入院系统\出入院系统\obj\Debug\出入院系统.Frmbedcheck.resources
+C:\Users\fj3\Desktop\出入院系统总\出入院系统\出入院系统\obj\Debug\出入院系统.Frmchuyuan.resources
+C:\Users\fj3\Desktop\出入院系统总\出入院系统\出入院系统\obj\Debug\出入院系统.Frmdetail.resources
+C:\Users\fj3\Desktop\出入院系统总\出入院系统\出入院系统\obj\Debug\出入院系统.Frmfapiao.resources
+C:\Users\fj3\Desktop\出入院系统总\出入院系统\出入院系统\obj\Debug\出入院系统.Frmjiaokuanchuli.resources
+C:\Users\fj3\Desktop\出入院系统总\出入院系统\出入院系统\obj\Debug\出入院系统.Frmjiezhangfapiao.resources
+C:\Users\fj3\Desktop\出入院系统总\出入院系统\出入院系统\obj\Debug\出入院系统.Frmjiezhanghedui.resources
+C:\Users\fj3\Desktop\出入院系统总\出入院系统\出入院系统\obj\Debug\出入院系统.Frmpaxingzhi.resources
+C:\Users\fj3\Desktop\出入院系统总\出入院系统\出入院系统\obj\Debug\出入院系统.Frmruyuandengji.resources
+C:\Users\fj3\Desktop\出入院系统总\出入院系统\出入院系统\obj\Debug\出入院系统.Frmfeiyongbuzhang.resources
+C:\Users\fj3\Desktop\出入院系统总\出入院系统\出入院系统\obj\Debug\WindowsFormsApplication3.LtB_shoufeibiaozun.resources
+C:\Users\fj3\Desktop\出入院系统总\出入院系统\出入院系统\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\fj3\Desktop\出入院系统总\出入院系统\出入院系统\obj\Debug\出入院系统.Frmzhenduanbianma.resources
+C:\Users\fj3\Desktop\出入院系统总\出入院系统\出入院系统\obj\Debug\出入院系统.Properties.Resources.resources
+C:\Users\fj3\Desktop\出入院系统总\出入院系统\出入院系统\obj\Debug\出入院系统.Frmzhuce.resources
+C:\Users\fj3\Desktop\出入院系统总\出入院系统\出入院系统\obj\Debug\出入院系统.Frmdenglu.resources
+C:\Users\fj3\Desktop\出入院系统总\出入院系统\出入院系统\obj\Debug\出入院系统.csproj.GenerateResource.Cache
+C:\Users\fj3\Desktop\出入院系统总\出入院系统\出入院系统\bin\Debug\出入院系统.exe
+C:\Users\fj3\Desktop\出入院系统总\出入院系统\出入院系统\bin\Debug\出入院系统.pdb
+C:\Users\Administrator\Desktop\1\出入院系统总\出入院系统\出入院系统\obj\Debug\出入院系统.exe
+C:\Users\Administrator\Desktop\1\出入院系统总\出入院系统\出入院系统\obj\Debug\出入院系统.pdb
+C:\Users\Administrator\Desktop\1\出入院系统总\出入院系统\出入院系统\bin\Debug\出入院系统.exe
+C:\Users\Administrator\Desktop\1\出入院系统总\出入院系统\出入院系统\bin\Debug\出入院系统.pdb
+C:\Users\Administrator\Desktop\1\出入院系统总\出入院系统\出入院系统\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\1\出入院系统总\出入院系统\出入院系统\obj\Debug\出入院系统.Frmbedcard.resources
+C:\Users\Administrator\Desktop\1\出入院系统总\出入院系统\出入院系统\obj\Debug\出入院系统.Frmbedcheck.resources
+C:\Users\Administrator\Desktop\1\出入院系统总\出入院系统\出入院系统\obj\Debug\出入院系统.Frmdetail.resources
+C:\Users\Administrator\Desktop\1\出入院系统总\出入院系统\出入院系统\obj\Debug\出入院系统.Frmfapiao.resources
+C:\Users\Administrator\Desktop\1\出入院系统总\出入院系统\出入院系统\obj\Debug\出入院系统.Frmjiezhangfapiao.resources
+C:\Users\Administrator\Desktop\1\出入院系统总\出入院系统\出入院系统\obj\Debug\出入院系统.Frmjiezhanghedui.resources
+C:\Users\Administrator\Desktop\1\出入院系统总\出入院系统\出入院系统\obj\Debug\出入院系统.Frmpaxingzhi.resources
+C:\Users\Administrator\Desktop\1\出入院系统总\出入院系统\出入院系统\obj\Debug\出入院系统.Frmruyuandengji.resources
+C:\Users\Administrator\Desktop\1\出入院系统总\出入院系统\出入院系统\obj\Debug\出入院系统.Frmfeiyongbuzhang.resources
+C:\Users\Administrator\Desktop\1\出入院系统总\出入院系统\出入院系统\obj\Debug\WindowsFormsApplication3.LtB_shoufeibiaozun.resources
+C:\Users\Administrator\Desktop\1\出入院系统总\出入院系统\出入院系统\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Administrator\Desktop\1\出入院系统总\出入院系统\出入院系统\obj\Debug\出入院系统.Frmzhenduanbianma.resources
+C:\Users\Administrator\Desktop\1\出入院系统总\出入院系统\出入院系统\obj\Debug\出入院系统.Properties.Resources.resources
+C:\Users\Administrator\Desktop\1\出入院系统总\出入院系统\出入院系统\obj\Debug\出入院系统.Frmzhuce.resources
+C:\Users\Administrator\Desktop\1\出入院系统总\出入院系统\出入院系统\obj\Debug\出入院系统.Frmdenglu.resources
+C:\Users\Administrator\Desktop\1\出入院系统总\出入院系统\出入院系统\obj\Debug\出入院系统.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\出入院系统\出入院系统\obj\Debug\出入院系统.FrmDataBase.resources
+C:\Users\Administrator\Desktop\出入院系统\出入院系统\obj\Debug\出入院系统.Frmjiezhangfapiao.resources
+C:\Users\Administrator\Desktop\出入院系统\出入院系统\obj\Debug\出入院系统.Frmjiezhanghedui.resources
+C:\Users\fj3\Desktop\出入院系统\出入院系统\obj\Debug\出入院系统.FrmDataBase.resources
+C:\Users\fj10\Desktop\总1214\出入院系统\出入院系统\obj\Debug\出入院系统.exe
+C:\Users\fj10\Desktop\总1214\出入院系统\出入院系统\obj\Debug\出入院系统.pdb
+C:\Users\fj10\Desktop\总1214\出入院系统\出入院系统\bin\Debug\出入院系统.exe
+C:\Users\fj10\Desktop\总1214\出入院系统\出入院系统\bin\Debug\出入院系统.pdb
+C:\Users\fj10\Desktop\总1214\出入院系统\出入院系统\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\fj10\Desktop\总1214\出入院系统\出入院系统\obj\Debug\出入院系统.Frmbedcard.resources
+C:\Users\fj10\Desktop\总1214\出入院系统\出入院系统\obj\Debug\出入院系统.Frmbedcheck.resources
+C:\Users\fj10\Desktop\总1214\出入院系统\出入院系统\obj\Debug\出入院系统.FrmDataBase.resources
+C:\Users\fj10\Desktop\总1214\出入院系统\出入院系统\obj\Debug\出入院系统.Frmdetail.resources
+C:\Users\fj10\Desktop\总1214\出入院系统\出入院系统\obj\Debug\出入院系统.Frmfapiao.resources
+C:\Users\fj10\Desktop\总1214\出入院系统\出入院系统\obj\Debug\出入院系统.Frmjiezhangfapiao.resources
+C:\Users\fj10\Desktop\总1214\出入院系统\出入院系统\obj\Debug\出入院系统.Frmjiezhanghedui.resources
+C:\Users\fj10\Desktop\总1214\出入院系统\出入院系统\obj\Debug\出入院系统.Frmpaxingzhi.resources
+C:\Users\fj10\Desktop\总1214\出入院系统\出入院系统\obj\Debug\出入院系统.Frmruyuandengji.resources
+C:\Users\fj10\Desktop\总1214\出入院系统\出入院系统\obj\Debug\出入院系统.Frmfeiyongbuzhang.resources
+C:\Users\fj10\Desktop\总1214\出入院系统\出入院系统\obj\Debug\WindowsFormsApplication3.LtB_shoufeibiaozun.resources
+C:\Users\fj10\Desktop\总1214\出入院系统\出入院系统\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\fj10\Desktop\总1214\出入院系统\出入院系统\obj\Debug\出入院系统.Frmzhenduanbianma.resources
+C:\Users\fj10\Desktop\总1214\出入院系统\出入院系统\obj\Debug\出入院系统.Properties.Resources.resources
+C:\Users\fj10\Desktop\总1214\出入院系统\出入院系统\obj\Debug\出入院系统.Frmzhuce.resources
+C:\Users\fj10\Desktop\总1214\出入院系统\出入院系统\obj\Debug\出入院系统.Frmdenglu.resources
+C:\Users\fj10\Desktop\总1214\出入院系统\出入院系统\obj\Debug\出入院系统.csproj.GenerateResource.Cache
+C:\Users\fj4\Desktop\sql 12.20\出入院系统\出入院系统\obj\Debug\出入院系统.exe
+C:\Users\fj4\Desktop\sql 12.20\出入院系统\出入院系统\obj\Debug\出入院系统.pdb
+C:\Users\fj4\Desktop\sql 12.20\出入院系统\出入院系统\bin\Debug\出入院系统.exe
+C:\Users\fj4\Desktop\sql 12.20\出入院系统\出入院系统\bin\Debug\出入院系统.pdb
+C:\Users\fj4\Desktop\sql 12.20\出入院系统\出入院系统\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\fj4\Desktop\sql 12.20\出入院系统\出入院系统\obj\Debug\出入院系统.Frmbedcard.resources
+C:\Users\fj4\Desktop\sql 12.20\出入院系统\出入院系统\obj\Debug\出入院系统.Frmbedcheck.resources
+C:\Users\fj4\Desktop\sql 12.20\出入院系统\出入院系统\obj\Debug\出入院系统.FrmDataBase.resources
+C:\Users\fj4\Desktop\sql 12.20\出入院系统\出入院系统\obj\Debug\出入院系统.Frmdetail.resources
+C:\Users\fj4\Desktop\sql 12.20\出入院系统\出入院系统\obj\Debug\出入院系统.Frmfapiao.resources
+C:\Users\fj4\Desktop\sql 12.20\出入院系统\出入院系统\obj\Debug\出入院系统.Frmjiezhangfapiao.resources
+C:\Users\fj4\Desktop\sql 12.20\出入院系统\出入院系统\obj\Debug\出入院系统.Frmjiezhanghedui.resources
+C:\Users\fj4\Desktop\sql 12.20\出入院系统\出入院系统\obj\Debug\出入院系统.Frmpaxingzhi.resources
+C:\Users\fj4\Desktop\sql 12.20\出入院系统\出入院系统\obj\Debug\出入院系统.Frmruyuandengji.resources
+C:\Users\fj4\Desktop\sql 12.20\出入院系统\出入院系统\obj\Debug\出入院系统.Frmfeiyongbuzhang.resources
+C:\Users\fj4\Desktop\sql 12.20\出入院系统\出入院系统\obj\Debug\WindowsFormsApplication3.LtB_shoufeibiaozun.resources
+C:\Users\fj4\Desktop\sql 12.20\出入院系统\出入院系统\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\fj4\Desktop\sql 12.20\出入院系统\出入院系统\obj\Debug\出入院系统.Frmzhenduanbianma.resources
+C:\Users\fj4\Desktop\sql 12.20\出入院系统\出入院系统\obj\Debug\出入院系统.Properties.Resources.resources
+C:\Users\fj4\Desktop\sql 12.20\出入院系统\出入院系统\obj\Debug\出入院系统.Frmzhuce.resources
+C:\Users\fj4\Desktop\sql 12.20\出入院系统\出入院系统\obj\Debug\出入院系统.Frmdenglu.resources
+C:\Users\fj4\Desktop\sql 12.20\出入院系统\出入院系统\obj\Debug\出入院系统.csproj.GenerateResource.Cache
+C:\Users\fj4\Desktop\1226\出入院系统\出入院系统\obj\Debug\出入院系统.exe
+C:\Users\fj4\Desktop\1226\出入院系统\出入院系统\obj\Debug\出入院系统.pdb
+C:\Users\fj4\Desktop\1226\出入院系统\出入院系统\bin\Debug\出入院系统.exe
+C:\Users\fj4\Desktop\1226\出入院系统\出入院系统\bin\Debug\出入院系统.pdb
+C:\Users\fj4\Desktop\1226\出入院系统\出入院系统\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\fj4\Desktop\1226\出入院系统\出入院系统\obj\Debug\出入院系统.Frmbedcard.resources
+C:\Users\fj4\Desktop\1226\出入院系统\出入院系统\obj\Debug\出入院系统.Frmbedcheck.resources
+C:\Users\fj4\Desktop\1226\出入院系统\出入院系统\obj\Debug\出入院系统.FrmDataBase.resources
+C:\Users\fj4\Desktop\1226\出入院系统\出入院系统\obj\Debug\出入院系统.Frmdetail.resources
+C:\Users\fj4\Desktop\1226\出入院系统\出入院系统\obj\Debug\出入院系统.Frmfapiao.resources
+C:\Users\fj4\Desktop\1226\出入院系统\出入院系统\obj\Debug\出入院系统.Frmjiezhangfapiao.resources
+C:\Users\fj4\Desktop\1226\出入院系统\出入院系统\obj\Debug\出入院系统.Frmjiezhanghedui.resources
+C:\Users\fj4\Desktop\1226\出入院系统\出入院系统\obj\Debug\出入院系统.Frmpaxingzhi.resources
+C:\Users\fj4\Desktop\1226\出入院系统\出入院系统\obj\Debug\出入院系统.Frmruyuandengji.resources
+C:\Users\fj4\Desktop\1226\出入院系统\出入院系统\obj\Debug\出入院系统.Frmfeiyongbuzhang.resources
+C:\Users\fj4\Desktop\1226\出入院系统\出入院系统\obj\Debug\WindowsFormsApplication3.LtB_shoufeibiaozun.resources
+C:\Users\fj4\Desktop\1226\出入院系统\出入院系统\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\fj4\Desktop\1226\出入院系统\出入院系统\obj\Debug\出入院系统.Frmzhenduanbianma.resources
+C:\Users\fj4\Desktop\1226\出入院系统\出入院系统\obj\Debug\出入院系统.Properties.Resources.resources
+C:\Users\fj4\Desktop\1226\出入院系统\出入院系统\obj\Debug\出入院系统.Frmzhuce.resources
+C:\Users\fj4\Desktop\1226\出入院系统\出入院系统\obj\Debug\出入院系统.Frmdenglu.resources
+C:\Users\fj4\Desktop\1226\出入院系统\出入院系统\obj\Debug\出入院系统.csproj.GenerateResource.Cache

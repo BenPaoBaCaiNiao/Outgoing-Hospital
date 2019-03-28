@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9DA15AED-E2AB-4270-9C9B-3F33E9C71FCD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>出入院系统</RootNamespace>
+    <AssemblyName>出入院系统</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Frmbedcard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmbedcard.Designer.cs">
+      <DependentUpon>Frmbedcard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmbedcheck.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmbedcheck.Designer.cs">
+      <DependentUpon>Frmbedcheck.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDataBase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDataBase.Designer.cs">
+      <DependentUpon>FrmDataBase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmdetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmdetail.Designer.cs">
+      <DependentUpon>Frmdetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmjiezhangfapiao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmjiezhangfapiao.Designer.cs">
+      <DependentUpon>Frmjiezhangfapiao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmjiezhanghedui.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmjiezhanghedui.Designer.cs">
+      <DependentUpon>Frmjiezhanghedui.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmpaxingzhi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmpaxingzhi.Designer.cs">
+      <DependentUpon>Frmpaxingzhi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmruyuandengji.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmruyuandengji.Designer.cs">
+      <DependentUpon>Frmruyuandengji.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmzhenduanbianma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmzhenduanbianma.Designer.cs">
+      <DependentUpon>Frmzhenduanbianma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmzhuce.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmzhuce.Designer.cs">
+      <DependentUpon>Frmzhuce.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmdenglu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmdenglu.Designer.cs">
+      <DependentUpon>Frmdenglu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Frmbedcard.resx">
+      <DependentUpon>Frmbedcard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmbedcheck.resx">
+      <DependentUpon>Frmbedcheck.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDataBase.resx">
+      <DependentUpon>FrmDataBase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmdetail.resx">
+      <DependentUpon>Frmdetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmjiezhangfapiao.resx">
+      <DependentUpon>Frmjiezhangfapiao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmjiezhanghedui.resx">
+      <DependentUpon>Frmjiezhanghedui.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmpaxingzhi.resx">
+      <DependentUpon>Frmpaxingzhi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmruyuandengji.resx">
+      <DependentUpon>Frmruyuandengji.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmzhenduanbianma.resx">
+      <DependentUpon>Frmzhenduanbianma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmzhuce.resx">
+      <DependentUpon>Frmzhuce.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmdenglu.resx">
+      <DependentUpon>Frmdenglu.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\保存.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\选择.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\选择1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\查询.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\查询2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\打印.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\计算.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\删除1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\删除2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\刷卡.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\刷卡2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\退回.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\退款.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\执行.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\明细.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\刷新.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\添加2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\删除.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\timg.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\用户名%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\密码.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
