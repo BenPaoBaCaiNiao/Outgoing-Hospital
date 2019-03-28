@@ -1,0 +1,73 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>无标题页</title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .style2
+        {
+            width: 800px;
+        }
+        .style3
+        {
+            height: 259px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <table align="center" class="style2">
+            <tr>
+                <td colspan="3" class="style3">
+                    <asp:Image ID="Image1" runat="server" BackColor="White" 
+                        ImageUrl="~/image/tu14804_6.jpg" Width="810px" Height="261px" />
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3" align="center">
+                    <asp:Label ID="Label1" runat="server" BackColor="#FFCCFF" ForeColor="Black" 
+                        Text="佛说：“一花一世界”；" Width="800px" Font-Size="X-Large"></asp:Label>
+                </td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <asp:Image ID="Image2" runat="server" ImageUrl="~/image/jxzemi6.jpg" 
+                        Width="100px" />
+                    <asp:LinkButton ID="LinkButton1" runat="server" onclick="LinkButton1_Click"><a href="Admin(管理员登录).aspx" >管理员登录</a></asp:LinkButton>
+                </td>
+                <td align="center">
+                    <asp:Image ID="Image3" runat="server" Height="60px" 
+                        ImageUrl="~/image/1-140305131415.jpg" Width="100px" />
+                    <asp:LinkButton ID="LinkButton2" runat="server"><a href="User（用户登录）.aspx" >用户登录</a></asp:LinkButton>
+                </td>
+                <td align="center">
+                    <asp:Image ID="Image4" runat="server" Height="60px" ImageUrl="~/image/ims.jpg" 
+                        Width="100px" />
+                    <asp:LinkButton ID="LinkButton3" runat="server"><a href="M_user(用户注册页）.aspx" >注册帐户</a> 
+                    </asp:LinkButton>
+                </td>
+            </tr>
+            <tr>
+                <td align="center" colspan="3">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+            <tr>
+                <td align="center">
+                    版权所有：福建中医药大学</td>
+                <td align="center">
+                    地址：福建省福州市闽侯县上街镇邱阳路1号</td>
+                <td align="center">
+                    QQ邮箱：xxxxxxxx@qq.com</td>
+            </tr>
+        </table>
+    </div>
+    </form>
+</body>
+</html>

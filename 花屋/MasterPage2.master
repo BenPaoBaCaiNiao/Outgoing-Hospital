@@ -1,0 +1,93 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage2.master.cs" Inherits="MasterPage2" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>无标题页</title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .style14
+        {
+            height: 35px;
+        }
+        .style7
+        {
+            height: 35px;
+        }
+        .style5
+        {
+            width: 983px;
+        }
+        .style15
+        {
+            width: 273px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <table align="center" class="style5">
+        <tr>
+            <td align="left" class="style15">
+                <asp:Image ID="Image1" runat="server" Height="200px" ImageUrl="~/image/21.jpg" 
+                    Width="300px" />
+            </td>
+            <td align="center">
+                <asp:Image ID="Image2" runat="server" Height="200px" ImageUrl="~/image/22.jpg" 
+                    Width="280px" />
+            </td>
+            <td align="center">
+                <asp:Image ID="Image3" runat="server" Height="200px" ImageUrl="~/image/23.jpeg" 
+                    Width="453px" />
+            </td>
+        </tr>
+        <tr>
+            <td align="center" colspan="3">
+                <asp:Label ID="Label1" runat="server" BackColor="Black" Font-Bold="True" 
+                    Font-Size="XX-Large" ForeColor="White" Height="50px" Text="管理员，你好！" 
+                    Width="1040px"></asp:Label>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" class="style14">
+                <asp:Button ID="Button1" runat="server" BackColor="White" BorderStyle="None" 
+                    Font-Size="X-Large" Font-Underline="True" ForeColor="#FF9900" Text="管理用户信息 " 
+                    Width="213px" onclick="Button1_Click" />
+            <a href="A_user(管理用户信息）.aspx" ></a></td>
+            <td align="center" class="style7">
+                <asp:Button ID="Button2" runat="server" BackColor="White" BorderStyle="None" 
+                    Font-Italic="True" Font-Size="X-Large" Font-Underline="True" 
+                    ForeColor="#FF9900" Text="管理花卉信息 " onclick="Button2_Click" /><a href="A_flower(管理花卉信息).aspx" ></a>
+            </td>
+            <td align="center" class="style7">
+                <asp:Button ID="Button3" runat="server" BackColor="White" BorderStyle="None" 
+                    Font-Size="X-Large" Font-Underline="True" ForeColor="#FF9900" 
+                    Text="管理留言信息 " onclick="Button3_Click" /><a href="A_messa(管理留言).aspx" ></a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" class="style14">
+                &nbsp;</td>
+            <td align="center" class="style7">
+                &nbsp;</td>
+            <td align="center" class="style7">
+                <asp:LinkButton ID="LinkButton1" runat="server" Font-Size="X-Large" 
+                    onclick="LinkButton1_Click">注销</asp:LinkButton>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" class="style14" colspan="3">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" class="style14" colspan="3">
+                &nbsp;</td>
+        </tr>
+    </table>
+    </form>
+</body>
+</html>

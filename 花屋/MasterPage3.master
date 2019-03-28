@@ -1,0 +1,64 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage3.master.cs" Inherits="MasterPage3" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>无标题页</title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .style2
+        {
+            width: 840px;
+        }
+        .style3
+        {
+        }
+        .style4
+        {
+            width: 544px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <table align="center" class="style2">
+        <tr>
+            <td class="style3" colspan="2">
+                <asp:Image ID="Image1" runat="server" Height="200px" ImageUrl="~/image/33.jpg" 
+                    Width="250px" />
+            </td>
+            <td align="center" bgcolor="#FFFFCC" class="style4" colspan="2">
+                <asp:Label ID="Label1" runat="server" Font-Size="XX-Large" Text="依旧 "></asp:Label>
+                <br />
+                <asp:Label ID="Label3" runat="server" Font-Size="XX-Large" Text="依旧 "></asp:Label>
+                <br />
+                <asp:Label ID="Label2" runat="server" Font-Size="XX-Large" Text="静待花开 "></asp:Label>
+            </td>
+            <td>
+                <asp:Image ID="Image3" runat="server" Height="200px" ImageUrl="~/image/34.jpg" 
+                    Width="250px" />
+            </td>
+        </tr>
+        <tr bgcolor="Black">
+            <td align="center" class="style3">
+                <asp:LinkButton ID="LinkButton1" runat="server" Font-Size="X-Large" 
+                    ForeColor="White" onclick="LinkButton1_Click"> 修改密码</asp:LinkButton>
+            </td>
+            <td class="style3" colspan="2">
+                &nbsp;</td>
+            <td class="style3" colspan="2">
+                <asp:LinkButton ID="LinkButton3" runat="server" ForeColor="White" 
+                    onclick="LinkButton3_Click" Font-Size="X-Large">注销</asp:LinkButton>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <asp:LinkButton ID="LinkButton4" runat="server" Font-Size="X-Large" 
+                    ForeColor="White" onclick="LinkButton4_Click">检索花卉</asp:LinkButton>
+            </td>
+        </tr>
+    </table>
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+    </asp:ContentPlaceHolder>
+    </form>
+</body>
+</html>
